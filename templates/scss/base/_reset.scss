@@ -1,0 +1,20 @@
+html,body,p, h1, h2, h3, h4, h5, h6,ul,li,ol,p,textarea,th,td{
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  font-family: "Microsoft YaHei UI Light";
+}
+body{
+  -webkit-tap-highlight-color:transparent;
+}
+a:link, a:hover, a:active, a:visited {
+  text-decoration: none;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+li{
+  list-style: none;
+}

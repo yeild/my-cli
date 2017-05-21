@@ -1,0 +1,22 @@
+{
+  "name": "my-cli",
+  "version": "1.0.0",
+  "description": "Auto generate template project",
+  "main": "index.js",
+  "bin": {
+    "my-cli": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlme/my-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "798400626@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hlme/my-cli/issues"
+  },
+  "homepage": "https://github.com/hlme/my-cli#readme"
+}

@@ -1,0 +1,16 @@
+.float_left{
+  float: left;
+}
+.float_right{
+  float: right;
+}
+.clearFix::after{
+  content: ' ';
+  height: 0;
+  display: block ;
+  visibility: hidden;
+  clear: both;
+}
+.hidden{
+  display: none;
+}
