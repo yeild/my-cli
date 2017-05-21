@@ -11,4 +11,4 @@ mkdir my-project && cd my-project
 my-cli
 ```
 This tool will help building your project structure like the picture below. Enjoy coding!
-[picture](http://ooqymz3vm.bkt.clouddn.com/cli.gif)
+![picture](http://ooqymz3vm.bkt.clouddn.com/cli.gif)
