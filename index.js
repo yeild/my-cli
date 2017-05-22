@@ -36,8 +36,12 @@ function mkdir (path, fn) {
 }
 
 var PATH = ".";
+if(process.argv.length == 2) {
+  copyTemplate("index_simple.html", PATH + '/index.html');
+} else {
+  copyTemplate("index.html", PATH + '/index.html');
+}
 
-copyTemplate("index.html", PATH + '/index.html');
 copyTemplate("package.json", PATH + '/package.json');
 
 mkdir(PATH + '/public', function () {
