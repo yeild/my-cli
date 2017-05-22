@@ -10,7 +10,7 @@ Create your porject directory, and use "my-cli" command:
 $ mkdir my-project && cd my-project
 $ my-cli
 ```
-This tool will help building your project structure like the GIF below. Enjoy coding!
+This tool will help building your project structure like the GIF below.
 ![picture](http://ooqymz3vm.bkt.clouddn.com/cli1.gif)
 
 ## 0.2.0 update
