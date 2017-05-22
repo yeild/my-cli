@@ -1,6 +1,6 @@
 {
   "name": "my-cli",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Auto generate project template",
   "main": "index.js",
   "bin": {
