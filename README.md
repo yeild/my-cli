@@ -27,4 +27,4 @@ $ my-cli -j -s -v -b
 -b: add Bootstrap to your project.
 
 Your project looks like this now.
-![picture](http://ooqymz3vm.bkt.clouddn.com/cli2.jpg)
+![picture](http://ooqymz3vm.bkt.clouddn.com/cli2.png)
