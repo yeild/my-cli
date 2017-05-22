@@ -16,7 +16,7 @@ This tool will help building your project structure like the picture below. Enjo
 ## 0.2.0 update
 Now you can use command to help add your library.
 ```
-$ my-cli -j -s -v b
+$ my-cli -j -s -v -b
 ```
 -j: add jQuery to your project.
 
