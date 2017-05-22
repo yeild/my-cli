@@ -1,5 +1,6 @@
 #! node
 
+
 var fs = require('fs');
 var path = require('path');
 
@@ -81,5 +82,5 @@ mkdir(PATH + '/src', function () {
   })
 });
 
-console.log("all jobs done.");
+console.log("build complete.");
 console.log(" use \"npm run sass\" to watch the sass file changes.");
