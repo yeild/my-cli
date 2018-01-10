@@ -1,4 +1,4 @@
-# my-cli
+# my-cli [![npm package](https://img.shields.io/npm/v/my-cli.svg)](https://www.npmjs.com/package/my-cli)
 A tool that can auto-generate the project template.
 ## How to use
 Install this tool by npm:
