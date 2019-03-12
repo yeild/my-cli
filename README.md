@@ -11,10 +11,10 @@ $ mkdir my-project && cd my-project
 $ my-cli
 ```
 This tool will help building your project structure like the GIF below.
-![picture](http://ooqymz3vm.bkt.clouddn.com/cli1.gif)
+![](https://img2018.cnblogs.com/blog/1150501/201903/1150501-20190312163120554-1766999470.gif)
 
 ## 0.2.0 update
-Now you can use argv to help add your library.
+Now you can use args to help add your library.
 ```
 $ my-cli -j -s -v -b
 ```
@@ -26,4 +26,4 @@ $ my-cli -j -s -v -b
 
 -b: add Bootstrap to your project.
 
-![picture](http://ooqymz3vm.bkt.clouddn.com/cli2.png)
+![](https://img2018.cnblogs.com/blog/1150501/201903/1150501-20190312163202587-1853142646.png)
